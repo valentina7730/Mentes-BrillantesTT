@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+.logo{
+
+    width: 100px;
+    height: 100px;
+    margin-top: auto;
+   
+  
+    
+}
+.titulo-MB{
+    width: 100%;
+    height: 10%;
+}
+
+.titulo_header{
+    text-align: center;
+    
+}
+.titulo-inicio{
+    text-align: center;
+}
+.texto-inicio{
+    margin: 30px;
+}
+img{
+    width: 100%;
+    height: 210px;
+    
+}
+
+nav ul{
+    list-style: none;
+}
+
+button{
+border: 3px rgb(253, 248, 248) solid;
+background-color: #ebebeb;
+cursor: pointer;
+}
+
+footer {
+    background-color: #f4f4f4; 
+    color: #333; 
+    text-align: center; 
+    padding: 20px; 
+    font-size: 14px; 
+    border-top: 2px solid #ddd; 
+    
+}
+
+
+footer a {
+    color: #007BFF; 
+    text-decoration: none; 
+    font-weight: bold; 
+}
+
+
+footer a:hover {
+    text-decoration: underline; 
+    color: #0056b3; 
+}
+
+footer a:focus {
+    outline: none; 
+}
