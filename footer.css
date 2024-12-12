@@ -1,0 +1,26 @@
+footer {
+    background-color: #f4f4f4; 
+    color: #333; 
+    text-align: center; 
+    padding: 20px; 
+    font-size: 14px; 
+    border-top: 2px solid #ddd; 
+    
+}
+
+
+footer a {
+    color: #007BFF; 
+    text-decoration: none; 
+    font-weight: bold; 
+}
+
+
+footer a:hover {
+    text-decoration: underline; 
+    color: #0056b3; 
+}
+
+footer a:focus {
+    outline: none; 
+}
