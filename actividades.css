@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff;
+    color: #000;
+}
+.logo{
+    width: 100px;
+    height: 100px;
+    margin-top: auto;
+}
+.logo{
+
+    width: 100px;
+    height: 100px;
+    margin-top: auto;
+}
+img{
+    width: 100%;
+    height: 210px;
+    
+}
+.main-content {
+    width: 80%;
+    max-width: 800px;
+    margin: 20px auto;
+    text-align: center;
+  }
+  
+  .section-title {
+    font-size: 1.8em;
+    background-color: #d3d3d3;
+    margin: 10px 0;
+    padding: 15px;
+    color: black;
+  }
+  
+  .activity {
+    margin: 20px 0;
+  }
+  
+  .activity-image {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  .actividades-pagas{
+    background-color: #d3d3d3;
+  width: 100%;
+  text-align: center;
+  padding: 15px;
+  margin-top: 30px;
+  font-size: 1em;
+  color: black;
+  border-top: 2px solid #ccc;
+
+  }
